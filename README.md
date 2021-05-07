@@ -16,3 +16,4 @@ You can similarly create other examples of such Text-based Adventure Games and i
 Let's take a look at the 2 intermediate or medium level projects.
 
 ## Intermediate Projects
+1. Calculater - The first intermediate or medium level project is a GUI 💻 based Calculater 📱 in Python. You can build this in a couple of days and you can take help of Tkinter module in python. Tkinter is a Python package which helps in making GUI's. You can learn more about Tkinter in its documentation --> https://wiki.python.org/moin/TkInter. 
