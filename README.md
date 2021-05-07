@@ -17,3 +17,4 @@ Let's take a look at the 2 intermediate or medium level projects.
 
 ## Intermediate Projects
 1. Calculater - The first intermediate or medium level project is a GUI 💻 based Calculater 📱 in Python. You can build this in a couple of days and you can take help of Tkinter module in python. Tkinter is a Python package which helps in making GUI's. You can learn more about Tkinter with the help of its documentation --> https://wiki.python.org/moin/TkInter. 
+At first you can add basic functions such as addition, subtraction, multiplication and division, then you can day-by-day increase the number of functions your calculater can perform, make it more-and-more advanced till the point where your calculater has become a professional calculater. Then, you can also improve its design.
