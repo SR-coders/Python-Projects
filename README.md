@@ -10,4 +10,5 @@ You can take it to advance level by adding some more features in it such as scor
 You can use the same logic to create games such as ludo, snakes & ladders etc.
 
 3. Text-based Adventure Game - You can create a simple adventure game using conditions in the form of text, for example - if you have asked google assistant in android devices to play games, it plays a text-based game. Similarly, you can create a mini adventure text based game which takes input from the user and responds in according to that. 
-See examples here --> 
+See example here --> https://github.com/Saarthak-Slathia/Rescue-from-the-Ofendasaurus.
+You can similarly create other examples of such Text-based Adventure Games and it can help you in developing logic and do better with conditions. Also, you can make it more and more advanced day-by-day and little-by-little and the end result after 30-45 days will be that you will get a really advanced game. You can add more features such as voice input and speech etc.
