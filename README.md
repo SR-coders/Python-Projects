@@ -7,5 +7,7 @@ Let's start with the easy one.
 You can take it to advance level by adding some more features in it such as scores, converting it into GUI etc.
 
 2. Random Number Generator - The next project is our Random Number generator. You can do this using the random module in python. The advantages of building this project is that first, it will boost your confidence, and second, it will help you create many more advanced and intermediate projects using this such as ludo, snakes and ladders etc. This is a simple project which you can finish early and you can generate a random number between 1 to 10. you can find the source code here --> https://github.com/Saarthak-Slathia/Random-Number-Generator.
-
 You can use the same logic to create games such as ludo, snakes & ladders etc.
+
+3. Text-based Adventure Game - You can create a simple adventure game using conditions in the form of text, for example - if you have asked google assistant in android devices to play games, it plays a text-based game. Similarly, you can create a mini adventure text based game which takes input from the user and responds in according to that. 
+See examples here --> 
