@@ -4,7 +4,7 @@ This is a list of Python projects you can start and complete easily. There are 3
 Let's start with the easy one.
 ## Easy Projects
 ### 1. Rock, Paper, Scissors game 
-You can build a simple rock, paper and scissors game using python. This project can be a good place to start your Python journey. This is a simple easy-level game which you can build easily with random module in Python. If you want the source code, you can download it from --> https://github.com/Saarthak-Slathia/Rock-paper-scissors.
+You can build a simple rock, paper and scissors game using python. This project can be a good place to start your Python journey. This is a simple easy-level game which you can build easily with random module in Python. Here's an example --> https://github.com/Saarthak-Slathia/Rock-paper-scissors.
 You can take it to advance level by adding some more features in it such as scores 1️⃣, converting it into GUI 💻 etc.
 
 ### 2. Random Number Generator 
