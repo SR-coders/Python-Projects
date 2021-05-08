@@ -41,4 +41,5 @@ The final project would be a Virtual Assistant, you can make a basic setup using
 #
 
 ### Thank You !!! ###
+If you find this useful, give it a star ⭐
 #
