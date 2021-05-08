@@ -27,5 +27,6 @@ Let's head forward towards the 2 Advanced level Python Projects.
 ## Advanced Python Projects
 1. Covid-19 case detecter - As you know, the Covid-19 pandemic has spread wildfire in the world and people have died and suffered due to this disease. People also have a great headache not only because of the disease but also by searching how many new Covid-19 cases have been found in a day. You can create a Python project for the same which fetches data using a Covid-19 API and displays it to the user. You can create this project using Django or Flask. you can begin with little data such as number of new cases detected in a day and then take it to another level by displaying more data such as number of recovered patients, the number of Active cases, vaccine doses administered etc. This will be a great project to apply your python skills.
 
-To find more abou Covid-19 --> https://www.mohfw.gov.in/covid_vaccination/vaccination/index.html 
+To find more about Covid-19 --> https://www.mohfw.gov.in/covid_vaccination/vaccination/index.html 
+
                                https://www.mohfw.gov.in/
