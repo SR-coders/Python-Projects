@@ -8,7 +8,7 @@ You can build a simple rock, paper and scissors game using python. This project 
 You can take it to advance level by adding some more features in it such as scores 1️⃣, converting it into GUI 💻 etc.
 
 ### 2. Random Number Generator 
-The next project is our Random Number generator. You can do this using the random module in python. The advantages of building this project is that first, it will boost your confidence, and second, it will help you create many more advanced and intermediate projects using this such as ludo, snakes and ladders etc. This is a simple project which you can finish early and you can generate a random number between 1 to 10. you can find the source code here --> https://github.com/Saarthak-Slathia/Random-Number-Generator.
+The next project is our Random Number generator. You can do this using the random module in python. The advantages of building this project is that first, it will boost your confidence, and second, it will help you create many more advanced and intermediate projects using this such as ludo, snakes and ladders etc. This is a simple project which you can finish early and you can generate a random number between 1 to 10. Here's an example --> https://github.com/Saarthak-Slathia/Random-Number-Generator.
 You can use the same logic to create games such as ludo, snakes & ladders etc.
 
 ### 3. Text-based Adventure Game 
