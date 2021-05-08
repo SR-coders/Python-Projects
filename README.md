@@ -30,12 +30,13 @@ The second and final project you can make in intermediate python projects is a G
 Let's head forward towards the 2 Advanced level Python Projects.
 
 ## Advanced Python Projects
-#### 1. Covid-19 case detecter
+### 1. Covid-19 case detecter
 As you know, the Covid-19 pandemic has spread wildfire in the world and people have died and suffered due to this disease. People also have a great headache not only because of the disease but also by searching how many new Covid-19 cases have been found in a day. You can create a Python project for the same which fetches data using a Covid-19 API and displays it to the user. You can create this project using Django or Flask. you can begin with little data such as number of new cases detected in a day and then take it to another level by displaying more data such as number of recovered patients, the number of Active cases, vaccine doses administered etc. This will be a great project to apply your python skills.
 
 To find more about Covid-19 --> https://www.mohfw.gov.in/covid_vaccination/vaccination/index.html and https://www.mohfw.gov.in/
 
-2. Virtual Assistant - The final project would be a Virtual Assistant, you can make a basic setup using voice input and sound and you can accomplish this using modules such as gTTS module or pyttsx3 python package and speech recognition. You can add a few things your AI (Virtual Assistant) can do and then gradually day-by-day you can increase the number of tasks your AI can handle and you can add atleast 1-2 new features per day. If you add 2 new features in your AI each day, then after a month, your AI will be way more advanced than it would be at beginning, i.e. - It could handle 60 more tasks now. If you keep upgrading your AI, it would become a completely advanced Virtual Assistant after a year.
+### 2. Virtual Assistant 
+The final project would be a Virtual Assistant, you can make a basic setup using voice input and sound and you can accomplish this using modules such as gTTS module or pyttsx3 python package and speech recognition. You can add a few things your AI (Virtual Assistant) can do and then gradually day-by-day you can increase the number of tasks your AI can handle and you can add atleast 1-2 new features per day. If you add 2 new features in your AI each day, then after a month, your AI will be way more advanced than it would be at beginning, i.e. - It could handle 60 more tasks now. If you keep upgrading your AI, it would become a completely advanced Virtual Assistant after a year.
 
 #
 
