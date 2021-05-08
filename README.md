@@ -20,3 +20,11 @@ Let's take a look at the 2 intermediate or medium level projects.
 At first you can add basic functions such as addition, subtraction, multiplication and division, then you can day-by-day increase the number of functions your calculater can perform, make it more-and-more advanced till the point where your calculater has become a professional calculater. Then, you can also improve its design.
 
 2. Currency Converter Application - The second and final project you can make in intermediate python projects is a GUI-based Currency Converter Application. You can start with a basic conversion of Rupees To Dollars or Pounds to Euros etc. Then you can slowly add more and more features in it such as more and more currency conversions. The end result of this will be your beautiful currency conversion application. It is a good place to apply your python skills and create an application.
+
+#
+Let's head forward towards the 2 Advanced level Python Projects.
+
+## Advanced Python Projects
+1. Covid-19 case detecter - As you know, the Covid-19 pandemic has spread wildfire in the world and people have died and suffered due to this disease. People also have a great headache not only because of the disease but also by searching how many new Covid-19 cases have been found in a day. You can create a Python project for the same which fetches data using a Covid-19 API and displays it to the user. You can create this project using Django or Flask. you can begin with little data such as number of new cases detected in a day and then take it to another level by displaying more data such as number of recovered patients, the number of Active cases, vaccine doses administered etc. This will be a great project to apply your python skills.
+
+To find more abou Covid-19 --> 
